@@ -1,0 +1,48 @@
+{
+  "project": "WriterScout 4-Minute Cut",
+  "targetDurationSeconds": 240,
+  "fps": 30,
+  "sourceVideo": "Q5OXImo7PCc.mp4",
+  "cuts": [
+    {
+      "phase": "Hook",
+      "srcStart": "00:10:16",
+      "srcEnd": "00:10:41",
+      "timelineStart": "00:00:00",
+      "zoomScale": 1.0,
+      "overlayText": "Testing Codex vs. Claude for Automated App Building"
+    },
+    {
+      "phase": "Act 1: Context & Pricing",
+      "srcStart": "00:01:00",
+      "srcEnd": "00:01:55",
+      "timelineStart": "00:00:25",
+      "zoomScale": 1.08,
+      "overlayText": "Context: The $20 vs $200/mo AI Subscriptions"
+    },
+    {
+      "phase": "Act 2: WriterScout Tool",
+      "srcStart": "00:13:00",
+      "srcEnd": "00:14:20",
+      "timelineStart": "00:01:20",
+      "zoomScale": 1.35,
+      "overlayText": "Project: WriterScout (Automated Reddit Talent Scraper)"
+    },
+    {
+      "phase": "Act 3: Super-Prompt Test",
+      "srcStart": "00:23:10",
+      "srcEnd": "00:24:10",
+      "timelineStart": "00:02:40",
+      "zoomScale": 1.0,
+      "overlayText": "Testing OpenAI Codex against Claude Restrictions"
+    },
+    {
+      "phase": "Outro",
+      "srcStart": "00:09:55",
+      "srcEnd": "00:10:15",
+      "timelineStart": "00:03:40",
+      "zoomScale": 1.0,
+      "overlayText": "Building in Public — Subscribe for Updates"
+    }
+  ]
+}
